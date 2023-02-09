@@ -9,7 +9,7 @@ public class basicday1 {
 		int x = 10;
 		System.out.println(x);
 		
-		String firstName = "chinmay";
+		String firstName = "suyog";
 		System.out.println(firstName);
 		
 		// Arithmetic operation
@@ -58,9 +58,9 @@ public class basicday1 {
 		System.out.println(a11 * 0.10);
 		System.out.println(a11 - 10);
 
-	}
+	
 
-}
+	}
 	
 
 public static void Calculator(int x , int y) {
@@ -91,11 +91,6 @@ public static void AdditionB(int x, int y) {
 public static int AdditionC(int x , int y) {
 	return x + y;
 }
-
-
-
-
-
 
 
 }
