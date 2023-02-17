@@ -16,6 +16,21 @@ public class array {
 		//System.out.println(Array);
 		String q55 = Arrays.toString(num);
 		System.out.println(q55);//o/p--> [99, 100, 101, 102, 105]
+		
+		// for loop
+		for (int i=0;i<num.length;i++) {
+			System.out.println(i);
+			System.out.println(num[i]);
+		}
+		
+		// hard coded value
+		
+        int [] num3 = {11,22,33,44,55};
+		
+		for(int i = 0 ; i < num3.length ; i++) {
+			System.out.println(i);
+			System.out.println(num3[i]);
+		}
      
 	}
 
